@@ -19,3 +19,11 @@ I'm a software engineer who is passionate about making Android apps, creating an
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+---
+
+<img align="left" alt="anesabml's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anesabml&count_private=true&show_icons=true" />
+
+---
+
+<img align="left" alt="anesabml's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anesabml&hide=ruby" />
