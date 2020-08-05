@@ -12,6 +12,9 @@ I'm a software engineer who is passionate about making Android apps, creating an
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What I learned from 30 days of solving LeetCode problems.](https://dev.to/anesabml/what-i-learned-from-30-days-of-solving-leetcode-problems-o21)
+- [Getting started with Zsh](https://dev.to/anesabml/getting-started-with-zsh-283m)
+- [Dagger Hilt basics](https://dev.to/anesabml/dagger-hilt-basics-23g8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
