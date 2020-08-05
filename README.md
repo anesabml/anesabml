@@ -10,20 +10,18 @@ I'm a software engineer who is passionate about making Android apps, creating an
 
 ---
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-# StackOverflow Activity
+## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
 ---
 
-<img align="left" alt="anesabml's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anesabml&count_private=true&show_icons=true" />
-
----
-
-<img align="left" alt="anesabml's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anesabml&hide=ruby" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" alt="anesabml's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anesabml&count_private=true&show_icons=true" />
+</a>
