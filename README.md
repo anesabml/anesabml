@@ -21,11 +21,11 @@ I'm a software engineer who is passionate about making Android apps, creating an
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Comment by Anes Abismail on Android unit test retrofit fails](https://stackoverflow.com/questions/61996654/android-unit-test-retrofit-fails)
 - [Android unit test retrofit fails](https://stackoverflow.com/questions/61996654/android-unit-test-retrofit-fails)
 - [Answer by Anes Abismail for Error dagger missingBinding in Kotlin with dagger 2](https://stackoverflow.com/questions/61806806/error-dagger-missingbinding-in-kotlin-with-dagger-2/61807446#61807446)
 - [Answer by Anes Abismail for Navigation drawer TextView Nullpointer exception](https://stackoverflow.com/questions/59819994/navigation-drawer-textview-nullpointer-exception/59826613#59826613)
 - [Answer by Anes Abismail for Android Volley - JsonArrayRequest returns null object](https://stackoverflow.com/questions/58538670/android-volley-jsonarrayrequest-returns-null-object/58538914#58538914)
+- [I have a problem when running the app on android](https://stackoverflow.com/questions/55679087/i-have-a-problem-when-running-the-app-on-android)
 <!-- STACKOVERFLOW:END -->
 
 ---
