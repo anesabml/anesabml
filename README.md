@@ -1,6 +1,6 @@
 # Hi, I'm Anes Abismail
 
-I'm a software engineer who is passionate about making Android apps, creating and providing the best user experience. I enjoy working with Kotlin, Architecture components, GraphQL and NodeJS. I have an eye for details and writing clean code. what I enjoy about Software Engineering is the ability to create something new and unique.
+I'm a software engineer who is passionate about opensource, I enjoy working with Kotlin, Python. I have an eye for details and writing clean code. what I enjoy about Software Engineering is the ability to create something new and unique.
 
 ## Find me:
 - Sharing my knowledge on <a href="https://twitter.com/anesabml"> Twitter</a> 
